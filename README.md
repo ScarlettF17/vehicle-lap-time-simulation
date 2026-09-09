@@ -84,4 +84,11 @@ Future development could include more detailed tire modeling, weight transfer, r
 
 ## Sources
 
-Vehicle specifications were obtained from published Ford and automotive specification data. Model assumptions are identified separately within the source code.
+Published vehicle specifications were obtained from the following references:
+
+- [Ford 2012 Focus Owner's Guide](https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/12focog1e.pdf)
+- [Edmunds - 2012 Ford Focus Specifications](https://www.edmunds.com/ford/focus/2012/trims/)
+- [2012 Ford Focus Technical Specifications](https://www.new-cars.com/2012/ford/specs/focus.html)
+
+Published specifications were used for vehicle mass, engine output, tire size, and transmission gearing.
+Parameters not available as exact manufacturer data were treated as model assumptions and are identified within the source code and README.
